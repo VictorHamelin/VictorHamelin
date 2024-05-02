@@ -2,7 +2,6 @@
 # Olá! Meu nome é Victor sou um desenvolvedor apaixonado por tecnologia, focado em Análise e Desenvolvimento de Sistemas. 
 
 - 🎓 Sou certificado como Técnico de Informática e Formado em Análise e Desenvolvimento de Sistemas.
-- 💻 Experiência em desenvolvimento de software, incluindo programação, design de software e gestão de projetos.
 - 🌱 Atualmente aperfeiçoando minhas habilidades.
 - 📚 Sempre em busca de aprendizado contínuo e crescimento profissional.
 
